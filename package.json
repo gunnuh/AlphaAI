@@ -1,0 +1,16 @@
+{
+  "name": "alphaai",
+  "version": "1.0.0",
+  "description": "To improve performance and reduce redundant API calls, the frontend caches the task list in the browser's `localStorage`.",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react-scripts": "^5.0.1"
+  }
+}
